@@ -9,7 +9,7 @@ $bash: python3 tree_generator.py -h
 ```
 
 
-Output:
+**Output:**
 ```
 
 $bash: python3 tree_generator.py -m http 
@@ -38,7 +38,7 @@ $bash: python3 tree_generator.py -m http
 ```
 
 # Disclaimer:
-This tool was developed as part of a Hackfest event at veracode, with hope to be useful for accelerating research work. Its more under development with more stability with active usage within team. Not accepting any PR/bug reports at the moment. All work done as part of this is a personal project, so direct all complaints to me.
+This tool was developed as part of accelerating research work at Veracode. Its under development with more stability with active usage within team. Not accepting any PR/bug reports at the moment. All work done as part of this is a personal project, so direct all complaints to me.
 
 # LICENSE:
 
